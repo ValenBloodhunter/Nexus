@@ -1,0 +1,31 @@
+
+# NEXUS - Project Dependencies
+# Python 3.11 or 3.12 recommended
+
+# Data Processing
+numpy
+pandas
+scipy
+duckdb
+pyarrow
+
+# Machine Learning
+scikit-learn
+joblib
+
+# Data Visualization
+matplotlib
+seaborn
+plotly
+
+# Website / Dashboard
+streamlit
+
+# Dataset Acquisition
+requests
+python-dotenv
+tqdm
+
+# Development and Testing
+jupyterlab
+pytest
